@@ -23,7 +23,7 @@ Here are some of the technologies I'm currently working with:
 Feel free to reach out to me via:
 
 - [**LinkedIn**](www.linkedin.com/in/aditya-kumbhar-688a17252)
-- [**Email:**](mailto:adityakumbhar915@gmail.com)
+- [**Email**](mailto:adityakumbhar915@gmail.com)
 
 Thank you for visiting my profile! I'm excited about the opportunities to learn, grow, and contribute to exciting projects. Let's connect and build something amazing together!
 
