@@ -1,22 +1,21 @@
 # Hi there! 👋 I'm Aditya Kumbhar
 
-Welcome to my GitHub profile! I'm a passionate and dedicated developer currently learning Java Full Stack. I have a solid understanding of various technologies and am constantly expanding my skill set. Here's a bit more about me:
+Welcome to my GitHub profile! I'm a passionate and dedicated developer currently learning Python Full Stack. I have a solid understanding of various technologies and am constantly expanding my skill set. Here's a bit more about me:
 
 - **Name:** Aditya Kumbhar
-- **Current Focus:** Java Full Stack Development
-- **Skills:** Python, Django, Java, Data Structures and Algorithms (DSA), Machine Learning (basics)
+- **Current Focus:** Python Full Stack Development
+- **Skills:** Python, Django, Data Structures and Algorithms (DSA), Machine Learning (basics)
 - **Projects:** Working on live projects and new applications to enhance my skills
 
 ## Tech Stack
 
 Here are some of the technologies I'm currently working with:
 
-- **Programming Languages:** Java, Python
+- **Programming Languages:** Python, Java
 - **Web Development:** Django, HTML, CSS, JavaScript
 - **Frontend Frameworks:** Tailwind CSS
-- **Backend Frameworks:** Java (Spring Boot), Django
-- **Database:** SQL, NoSQL
-- **Tools & Technologies:** Git, Docker, RESTful APIs, Machine Learning (basics)
+- **Backend Frameworks:** Django, Django REST framework
+- **Database:** SQL, NoSQL, PostgresSQL, MySql
 
 ## Get in Touch
 
