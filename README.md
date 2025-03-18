@@ -6,16 +6,16 @@ Here's a bit more about me:
 
 - **Name:** Aditya Kumbhar
 - **Current Focus:**  Full Stack Development
-- **Skills:** Python, Data Structures and Algorithms (DSA),Python, Machine Learning (basics)
+- **Skills:** Full Stack Web Development, Data Structures and Algorithms (DSA), Machine Learning (basics)
 
 ## Tech Stack
 
 Here are some of the technologies I'm currently working with:
 
-- **Programming Languages:** Python, C++
+- **Programming Languages:** C++, Javascript, Python
 - **Web Development:** HTML, CSS, JavaScript
 - **Frontend Frameworks:** React, Tailwind CSS
-- **Backend Frameworks:**  Django
+- **Backend Frameworks:**  Express js
 - **Database:** SQL, NoSQL
 - **Tools & Technologies:** Git, Docker, RESTful APIs, Machine Learning (basics)
 
