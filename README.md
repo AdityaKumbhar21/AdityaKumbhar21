@@ -1,31 +1,29 @@
-# Hi there! 👋 I'm Aditya Kumbhar
+# 👋 Hi there! I'm Aditya Kumbhar  
 
-Welcome to my GitHub profile! I'm a passionate and dedicated developer currently learning  Full Stack. I have a solid understanding of various technologies and am constantly expanding my skill set.
+Welcome to my GitHub profile! I'm a passionate and dedicated **Data Science** learner and explorer, with a strong foundation in programming, statistics, and machine learning. I'm constantly expanding my skill set to build data-driven and impactful solutions.
 
-Here's a bit more about me:
+---
 
-- **Name:** Aditya Kumbhar
-- **Current Focus:**  Full Stack Development
-- **Skills:** Full Stack Web Development, Data Structures and Algorithms (DSA), Machine Learning (basics)
+## 👨‍💻 About Me
+- **Name:** Aditya Kumbhar  
+- **Current Focus:** Data Science and Machine Learning  
+- **Skills:** Data Analysis, Statistical Modeling, Machine Learning, Python Programming  
 
-## Tech Stack
+---
 
-Here are some of the technologies I'm currently working with:
+## 🛠️ Tech Stack
+- **Programming Languages:** Python, C++  
+- **Data Science & Analysis:** Pandas, NumPy, Matplotlib, Seaborn  
+- **Machine Learning Frameworks:** Scikit-learn, TensorFlow (basics)  
+- **Database:** SQL, NoSQL  
+- **Tools & Technologies:** Jupyter Notebooks, Git, Docker, RESTful APIs  
 
-- **Programming Languages:** C++, Javascript, Python
-- **Web Development:** HTML, CSS, JavaScript
-- **Frontend Frameworks:** React, Tailwind CSS
-- **Backend Frameworks:**  Express js
-- **Database:** SQL, NoSQL
-- **Tools & Technologies:** Git, Docker, RESTful APIs, Machine Learning (basics)
+---
 
+## 📫 Get in Touch  
+- [**LinkedIn**](www.linkedin.com/in/aditya-kumbhar-688a17252)  
+- [**Email**](mailto:adityakumbhar915@gmail.com)
 
-## Get in Touch
+---
 
-Feel free to reach out to me via:
-
-- [**LinkedIn:**](www.linkedin.com/in/aditya-kumbhar-688a17252)
-- [**Email:**](mailto:adityakumbhar915@gmail.com)
-
-Thank you for visiting my profile! I'm excited about the opportunities to learn, grow, and contribute to exciting projects. Let's connect and build something amazing together!
-
+Thank you for visiting my profile! I'm excited about the opportunities to learn, grow, and contribute to exciting **data science** projects. Let’s connect and build impactful, data-driven solutions together!
