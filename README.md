@@ -50,9 +50,9 @@ I’m a **passionate engineering student** who loves building **real-world web a
 
 ## 📫 Contact
 
-- 📧 Email: **your-email@example.com**
-- 🔗 LinkedIn: **your-linkedin-url**
-- 🌐 Portfolio: _coming soon_  
+- 📧 Email: **adityakumbhar915@gmail.com**
+- 🔗 LinkedIn: **https://www.linkedin.com/in/aditya-kumbhar-688a17252/**
+- 🌐 Portfolio: **https://portfolio-website-pi-wheat-10.vercel.app/** 
 
 ---
 
