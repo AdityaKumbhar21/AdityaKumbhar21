@@ -1,29 +1,64 @@
-# 👋 Hi there! I'm Aditya Kumbhar  
+# 👋 Hi, I'm Aditya
 
-Welcome to my GitHub profile! I'm a passionate and dedicated **Data Science** learner and explorer, with a strong foundation in programming, statistics, and machine learning. I'm constantly expanding my skill set to build data-driven and impactful solutions.
-
----
-
-## 👨‍💻 About Me
-- **Name:** Aditya Kumbhar  
-- **Current Focus:** Data Science and Machine Learning  
-- **Skills:** Data Analysis, Statistical Modeling, Machine Learning, Python Programming  
+I’m a **passionate engineering student** who loves building **real-world web applications** using modern technologies. I enjoy taking projects from idea → development → deployment, and I’m constantly exploring how **AI/ML can enhance web experiences**.
 
 ---
 
-## 🛠️ Tech Stack
-- **Programming Languages:** Python, C++  
-- **Data Science & Analysis:** Pandas, NumPy, Matplotlib, Seaborn  
-- **Machine Learning Frameworks:** Scikit-learn, TensorFlow (basics)  
-- **Database:** SQL, NoSQL  
-- **Tools & Technologies:** Jupyter Notebooks, Git, Docker, RESTful APIs  
+## 🚀 About Me
+
+- 🌱 Currently learning **Full-Stack Development & Machine Learning**
+- 💻 Love building apps with **TypeScript, Next.js, React, Express**
+- 🤖 Exploring **AI/ML** with Python, Pandas, Scikit-learn, TensorFlow/PyTorch  
+- ⚡ Interested in performance, scalability & clean engineering
+- 🎯 Aspiring to ship products that solve meaningful problems
 
 ---
 
-## 📫 Get in Touch  
-- [**LinkedIn**](www.linkedin.com/in/aditya-kumbhar-688a17252)  
-- [**Email**](mailto:adityakumbhar915@gmail.com)
+## 🧠 Skills
+
+### 👨‍💻 Languages
+- TypeScript, JavaScript  
+- Python  
+- C/C++  
+- SQL  
+
+### 🛠️ Tech Stack
+- **Frontend:** Next.js, React, Tailwind CSS  
+- **Backend:** Express.js, Node.js  
+- **Database:** PostgreSQL, MongoDB, Prisma ORM  
+- **ML/AI:** NumPy, Pandas, Scikit-learn, TensorFlow, PyTorch  
+- **Tools:** Git, Docker, Postman, Vercel, Render  
 
 ---
 
-Thank you for visiting my profile! I'm excited about the opportunities to learn, grow, and contribute to exciting **data science** projects. Let’s connect and build impactful, data-driven solutions together!
+## 🔥 Highlights
+
+- Built scalable **full-stack web apps** with authentication, analytics & dashboards  
+- Developed **AI-powered quiz generator** using Gemini → real-time flashcards  
+- Worked on **ML forecasting systems** reducing overstock & stockouts significantly  
+- Experience deploying apps to **Vercel / Render / Docker**  
+
+---
+
+## 📚 Currently Learning
+
+- System Design Fundamentals  
+- LLM Integrations  
+- Cloud & DevOps basics  
+
+---
+
+## 📫 Contact
+
+- 📧 Email: **your-email@example.com**
+- 🔗 LinkedIn: **your-linkedin-url**
+- 🌐 Portfolio: _coming soon_  
+
+---
+
+## 💡 Fun Facts
+- I love learning by **building**  
+- Enjoy exploring product ideas  
+- Play & follow football ⚽  
+
+---
